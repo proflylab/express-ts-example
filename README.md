@@ -3,7 +3,7 @@
 - Hot reload
 - TypeScript
 - Prettier
-- Eslint
+- ESLint
 
 ## Run Locally
 
